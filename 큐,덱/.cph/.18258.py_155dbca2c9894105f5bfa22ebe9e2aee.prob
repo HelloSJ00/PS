@@ -1,0 +1,1 @@
+{"name":"Local: 18258","url":"/Users/hellosj00/Desktop/study/백준풀이/큐,덱/18258.py","tests":[{"id":1687840745166,"input":"15\npush 1\npush 2\nfront\nback\nsize\nempty\npop\npop\npop\nsize\nempty\npop\npush 3\nempty\nfront","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/hellosj00/Desktop/study/백준풀이/큐,덱/18258.py","group":"local","local":true}

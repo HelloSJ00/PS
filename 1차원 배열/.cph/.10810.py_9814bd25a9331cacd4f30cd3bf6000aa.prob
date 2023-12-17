@@ -1,0 +1,1 @@
+{"name":"Local: 10810","url":"/Users/hellosj00/Desktop/study/백준풀이/1차원 배열/10810.py","tests":[{"id":1687526483548,"input":"5 4\n1 2 3\n3 4 4\n1 4 1\n2 2 2","output":"1 2 1 1 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/hellosj00/Desktop/study/백준풀이/1차원 배열/10810.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 9613","url":"/Users/hellosj00/Desktop/study/백준풀이/알고리즘 기초/수학 1/9613.py","tests":[{"id":1688790512666,"input":"3\n4 10 20 30 40\n3 7 5 12\n3 125 15 25","output":"70\n3\n35"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/hellosj00/Desktop/study/백준풀이/알고리즘 기초/수학 1/9613.py","group":"local","local":true}
