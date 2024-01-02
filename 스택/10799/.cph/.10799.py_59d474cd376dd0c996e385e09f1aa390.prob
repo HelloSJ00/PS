@@ -1,0 +1,1 @@
+{"name":"Local: 10799","url":"/Users/hellosj00/dev/PS/스택/10799/10799.py","tests":[{"id":1704202590270,"input":"()(((()())(())()))(())","output":"17"},{"id":1704202601061,"input":"(((()(()()))(())()))(()())","output":"24"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/hellosj00/dev/PS/스택/10799/10799.py","group":"local","local":true}
