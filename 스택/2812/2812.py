@@ -11,7 +11,5 @@ for i in range(len(num)):
 
     stack.append(num[i])
 
-
-
 print(''.join(stack[:N-K]))
 
