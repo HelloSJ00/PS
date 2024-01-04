@@ -1,0 +1,1 @@
+{"name":"Local: 1991","url":"/Users/hellosj00/dev/PS/Tree/1991/1991.py","tests":[{"id":1704335414254,"input":"7\nA B C\nB D .\nC E F\nE . .\nF . G\nD . .\nG . .","output":"ABDCEFG\nDBAECFG\nDBEGFCA"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/hellosj00/dev/PS/Tree/1991/1991.py","group":"local","local":true}
