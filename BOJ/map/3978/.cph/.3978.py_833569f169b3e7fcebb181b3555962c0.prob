@@ -1,0 +1,1 @@
+{"name":"Local: 3978","url":"/Users/hellosj00/dev/PS/BOJ/map/3978/3978.py","tests":[{"id":1704439067557,"input":"2\n9 3 2\nbbbaababb\n9 3 2\naaabbabaa","output":"aaa\nbbb"},{"id":1704452353668,"input":"1\n6 2 2\nbbaaaa","output":"ab"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/hellosj00/dev/PS/BOJ/map/3978/3978.py","group":"local","local":true}
