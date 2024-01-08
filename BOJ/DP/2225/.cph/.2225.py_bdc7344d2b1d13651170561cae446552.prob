@@ -1,0 +1,1 @@
+{"name":"Local: 2225","url":"/Users/hellosj00/dev/PS/BOJ/DP/2225/2225.py","tests":[{"id":1704711288212,"input":"20 2","output":"21"},{"id":1704711303523,"input":"6 4","output":"84"},{"id":1704715105689,"input":"2 1","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/hellosj00/dev/PS/BOJ/DP/2225/2225.py","group":"local","local":true}
